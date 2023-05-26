@@ -1,0 +1,106 @@
+C:\Users\student\Desktop\Theor1\Theor1\obj\Debug\Theor1.Form1.resources
+C:\Users\student\Desktop\Theor1\Theor1\obj\Debug\Theor1.Properties.Resources.resources
+C:\Users\student\Desktop\Theor1\Theor1\obj\Debug\Theor1.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Theor1\Theor1\obj\Debug\Theor1.csproj.CoreCompileInputs.cache
+D:\Theor1\Theor1\obj\Debug\Theor1.csproj.AssemblyReference.cache
+D:\Theor1\Theor1\obj\Debug\Theor1.csproj.SuggestedBindingRedirects.cache
+D:\Theor1\Theor1\obj\Debug\Theor1.Form1.resources
+D:\Theor1\Theor1\obj\Debug\Theor1.Properties.Resources.resources
+D:\Theor1\Theor1\obj\Debug\Theor1.csproj.GenerateResource.cache
+D:\Theor1\Theor1\obj\Debug\Theor1.csproj.CoreCompileInputs.cache
+D:\Theor1\Theor1\bin\Debug\Theor1.exe.config
+D:\Theor1\Theor1\bin\Debug\Theor1.exe
+D:\Theor1\Theor1\bin\Debug\Theor1.pdb
+D:\Theor1\Theor1\obj\Debug\Theor1.exe
+D:\Theor1\Theor1\obj\Debug\Theor1.pdb
+E:\Theor1\Theor1\bin\Debug\Theor1.exe.config
+E:\Theor1\Theor1\bin\Debug\Theor1.exe
+E:\Theor1\Theor1\bin\Debug\Theor1.pdb
+E:\Theor1\Theor1\obj\Debug\Theor1.csproj.AssemblyReference.cache
+E:\Theor1\Theor1\obj\Debug\Theor1.Form1.resources
+E:\Theor1\Theor1\obj\Debug\Theor1.Properties.Resources.resources
+E:\Theor1\Theor1\obj\Debug\Theor1.csproj.GenerateResource.cache
+E:\Theor1\Theor1\obj\Debug\Theor1.csproj.CoreCompileInputs.cache
+E:\Theor1\Theor1\obj\Debug\Theor1.exe
+E:\Theor1\Theor1\obj\Debug\Theor1.pdb
+C:\Users\student\Desktop\Theor1\Theor1\bin\Debug\Theor1.exe.config
+C:\Users\student\Desktop\Theor1\Theor1\bin\Debug\Theor1.exe
+C:\Users\student\Desktop\Theor1\Theor1\bin\Debug\Theor1.pdb
+C:\Users\student\Desktop\Theor1\Theor1\obj\Debug\Theor1.csprojAssemblyReference.cache
+C:\Users\student\Desktop\Theor1\Theor1\obj\Debug\Theor1.exe
+C:\Users\student\Desktop\Theor1\Theor1\obj\Debug\Theor1.pdb
+C:\Users\yaros\OneDrive\Рабочий стол\programmirovanie_na4alo\TA\Theor1\Theor1\bin\Debug\Theor1.exe.config
+C:\Users\yaros\OneDrive\Рабочий стол\programmirovanie_na4alo\TA\Theor1\Theor1\bin\Debug\Theor1.exe
+C:\Users\yaros\OneDrive\Рабочий стол\programmirovanie_na4alo\TA\Theor1\Theor1\bin\Debug\Theor1.pdb
+C:\Users\yaros\OneDrive\Рабочий стол\programmirovanie_na4alo\TA\Theor1\Theor1\obj\Debug\Theor1.csproj.AssemblyReference.cache
+C:\Users\yaros\OneDrive\Рабочий стол\programmirovanie_na4alo\TA\Theor1\Theor1\obj\Debug\Theor1.csproj.SuggestedBindingRedirects.cache
+C:\Users\yaros\OneDrive\Рабочий стол\programmirovanie_na4alo\TA\Theor1\Theor1\obj\Debug\Theor1.Form1.resources
+C:\Users\yaros\OneDrive\Рабочий стол\programmirovanie_na4alo\TA\Theor1\Theor1\obj\Debug\Theor1.Properties.Resources.resources
+C:\Users\yaros\OneDrive\Рабочий стол\programmirovanie_na4alo\TA\Theor1\Theor1\obj\Debug\Theor1.csproj.GenerateResource.cache
+C:\Users\yaros\OneDrive\Рабочий стол\programmirovanie_na4alo\TA\Theor1\Theor1\obj\Debug\Theor1.csproj.CoreCompileInputs.cache
+C:\Users\yaros\OneDrive\Рабочий стол\programmirovanie_na4alo\TA\Theor1\Theor1\obj\Debug\Theor1.exe
+C:\Users\yaros\OneDrive\Рабочий стол\programmirovanie_na4alo\TA\Theor1\Theor1\obj\Debug\Theor1.pdb
+D:\student\pin-121\Mel\Theor1\Theor1\bin\Debug\Theor1.exe.config
+D:\student\pin-121\Mel\Theor1\Theor1\bin\Debug\Theor1.exe
+D:\student\pin-121\Mel\Theor1\Theor1\bin\Debug\Theor1.pdb
+D:\student\pin-121\Mel\Theor1\Theor1\obj\Debug\Theor1.csprojAssemblyReference.cache
+D:\student\pin-121\Mel\Theor1\Theor1\obj\Debug\Theor1.Form1.resources
+D:\student\pin-121\Mel\Theor1\Theor1\obj\Debug\Theor1.Properties.Resources.resources
+D:\student\pin-121\Mel\Theor1\Theor1\obj\Debug\Theor1.csproj.GenerateResource.cache
+D:\student\pin-121\Mel\Theor1\Theor1\obj\Debug\Theor1.csproj.CoreCompileInputs.cache
+D:\student\pin-121\Mel\Theor1\Theor1\obj\Debug\Theor1.exe
+D:\student\pin-121\Mel\Theor1\Theor1\obj\Debug\Theor1.pdb
+C:\Users\yaros\OneDrive\Рабочий стол\programmirovanie_na4alo\TA\realiz\Theor1\Theor1\bin\Debug\Theor1.exe.config
+C:\Users\yaros\OneDrive\Рабочий стол\programmirovanie_na4alo\TA\realiz\Theor1\Theor1\bin\Debug\Theor1.exe
+C:\Users\yaros\OneDrive\Рабочий стол\programmirovanie_na4alo\TA\realiz\Theor1\Theor1\bin\Debug\Theor1.pdb
+C:\Users\yaros\OneDrive\Рабочий стол\programmirovanie_na4alo\TA\realiz\Theor1\Theor1\obj\Debug\Theor1.csproj.AssemblyReference.cache
+C:\Users\yaros\OneDrive\Рабочий стол\programmirovanie_na4alo\TA\realiz\Theor1\Theor1\obj\Debug\Theor1.csproj.SuggestedBindingRedirects.cache
+C:\Users\yaros\OneDrive\Рабочий стол\programmirovanie_na4alo\TA\realiz\Theor1\Theor1\obj\Debug\Theor1.Form1.resources
+C:\Users\yaros\OneDrive\Рабочий стол\programmirovanie_na4alo\TA\realiz\Theor1\Theor1\obj\Debug\Theor1.Properties.Resources.resources
+C:\Users\yaros\OneDrive\Рабочий стол\programmirovanie_na4alo\TA\realiz\Theor1\Theor1\obj\Debug\Theor1.csproj.GenerateResource.cache
+C:\Users\yaros\OneDrive\Рабочий стол\programmirovanie_na4alo\TA\realiz\Theor1\Theor1\obj\Debug\Theor1.csproj.CoreCompileInputs.cache
+C:\Users\yaros\OneDrive\Рабочий стол\programmirovanie_na4alo\TA\realiz\Theor1\Theor1\obj\Debug\Theor1.exe
+C:\Users\yaros\OneDrive\Рабочий стол\programmirovanie_na4alo\TA\realiz\Theor1\Theor1\obj\Debug\Theor1.pdb
+C:\Users\student\Desktop\realiz\Theor1\Theor1\bin\Debug\Theor1.exe.config
+C:\Users\student\Desktop\realiz\Theor1\Theor1\bin\Debug\Theor1.exe
+C:\Users\student\Desktop\realiz\Theor1\Theor1\bin\Debug\Theor1.pdb
+C:\Users\student\Desktop\realiz\Theor1\Theor1\obj\Debug\Theor1.csprojAssemblyReference.cache
+C:\Users\student\Desktop\realiz\Theor1\Theor1\obj\Debug\Theor1.Form1.resources
+C:\Users\student\Desktop\realiz\Theor1\Theor1\obj\Debug\Theor1.Properties.Resources.resources
+C:\Users\student\Desktop\realiz\Theor1\Theor1\obj\Debug\Theor1.csproj.GenerateResource.cache
+C:\Users\student\Desktop\realiz\Theor1\Theor1\obj\Debug\Theor1.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\realiz\Theor1\Theor1\obj\Debug\Theor1.exe
+C:\Users\student\Desktop\realiz\Theor1\Theor1\obj\Debug\Theor1.pdb
+C:\Users\focsit\Desktop\realiz\Theor1\Theor1\obj\Debug\Theor1.csproj.AssemblyReference.cache
+C:\Users\focsit\Desktop\realiz\Theor1\Theor1\obj\Debug\Theor1.csproj.SuggestedBindingRedirects.cache
+C:\Users\focsit\Desktop\realiz\Theor1\Theor1\obj\Debug\Theor1.Form1.resources
+C:\Users\focsit\Desktop\realiz\Theor1\Theor1\obj\Debug\Theor1.Properties.Resources.resources
+C:\Users\focsit\Desktop\realiz\Theor1\Theor1\obj\Debug\Theor1.csproj.GenerateResource.cache
+C:\Users\focsit\Desktop\realiz\Theor1\Theor1\obj\Debug\Theor1.csproj.CoreCompileInputs.cache
+C:\Users\focsit\Desktop\realiz\Theor1\Theor1\obj\Debug\Theor1.exe
+C:\Users\focsit\Desktop\realiz\Theor1\Theor1\obj\Debug\Theor1.pdb
+C:\Users\focsit\Desktop\realiz\Theor1\Theor1\bin\Debug\Theor1.exe.config
+C:\Users\focsit\Desktop\realiz\Theor1\Theor1\bin\Debug\Theor1.exe
+C:\Users\focsit\Desktop\realiz\Theor1\Theor1\bin\Debug\Theor1.pdb
+C:\Users\focsit\Desktop\чет с учебой\realiz\Theor1\Theor1\bin\Debug\Theor1.exe.config
+C:\Users\focsit\Desktop\чет с учебой\realiz\Theor1\Theor1\bin\Debug\Theor1.exe
+C:\Users\focsit\Desktop\чет с учебой\realiz\Theor1\Theor1\bin\Debug\Theor1.pdb
+C:\Users\focsit\Desktop\чет с учебой\realiz\Theor1\Theor1\obj\Debug\Theor1.csproj.AssemblyReference.cache
+C:\Users\focsit\Desktop\чет с учебой\realiz\Theor1\Theor1\obj\Debug\Theor1.csproj.SuggestedBindingRedirects.cache
+C:\Users\focsit\Desktop\чет с учебой\realiz\Theor1\Theor1\obj\Debug\Theor1.Form1.resources
+C:\Users\focsit\Desktop\чет с учебой\realiz\Theor1\Theor1\obj\Debug\Theor1.Properties.Resources.resources
+C:\Users\focsit\Desktop\чет с учебой\realiz\Theor1\Theor1\obj\Debug\Theor1.csproj.GenerateResource.cache
+C:\Users\focsit\Desktop\чет с учебой\realiz\Theor1\Theor1\obj\Debug\Theor1.csproj.CoreCompileInputs.cache
+C:\Users\focsit\Desktop\чет с учебой\realiz\Theor1\Theor1\obj\Debug\Theor1.exe
+C:\Users\focsit\Desktop\чет с учебой\realiz\Theor1\Theor1\obj\Debug\Theor1.pdb
+C:\Users\focsit\Desktop\чет с учебой\КУРСАЧ\Theor1\Theor1\obj\Debug\Theor1.csproj.AssemblyReference.cache
+C:\Users\focsit\Desktop\чет с учебой\КУРСАЧ\Theor1\Theor1\obj\Debug\Theor1.csproj.SuggestedBindingRedirects.cache
+C:\Users\focsit\Desktop\чет с учебой\КУРСАЧ\Theor1\Theor1\obj\Debug\Theor1.Form1.resources
+C:\Users\focsit\Desktop\чет с учебой\КУРСАЧ\Theor1\Theor1\obj\Debug\Theor1.Properties.Resources.resources
+C:\Users\focsit\Desktop\чет с учебой\КУРСАЧ\Theor1\Theor1\obj\Debug\Theor1.csproj.GenerateResource.cache
+C:\Users\focsit\Desktop\чет с учебой\КУРСАЧ\Theor1\Theor1\obj\Debug\Theor1.csproj.CoreCompileInputs.cache
+C:\Users\focsit\Desktop\чет с учебой\КУРСАЧ\Theor1\Theor1\obj\Debug\Theor1.exe
+C:\Users\focsit\Desktop\чет с учебой\КУРСАЧ\Theor1\Theor1\obj\Debug\Theor1.pdb
+C:\Users\focsit\Desktop\чет с учебой\КУРСАЧ\Theor1\Theor1\bin\Debug\Theor1.exe.config
+C:\Users\focsit\Desktop\чет с учебой\КУРСАЧ\Theor1\Theor1\bin\Debug\Theor1.exe
+C:\Users\focsit\Desktop\чет с учебой\КУРСАЧ\Theor1\Theor1\bin\Debug\Theor1.pdb

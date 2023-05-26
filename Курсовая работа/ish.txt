@@ -1,0 +1,5 @@
+Dim x as integer
+Dim i, a as integer
+for i=1 to 10
+x=x+i*5
+next for
