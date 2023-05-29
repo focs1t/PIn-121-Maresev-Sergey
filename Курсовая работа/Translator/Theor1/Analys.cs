@@ -29,7 +29,7 @@ namespace Theor1
             stroka = s;
         }
 
-        string div = "+-*/=,\n ";
+        string div = "+-*/=,()\n ";
         string alphabet = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
         public void Parse()
         {

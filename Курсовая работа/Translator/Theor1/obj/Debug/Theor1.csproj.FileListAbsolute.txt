@@ -104,3 +104,14 @@ C:\Users\focsit\Desktop\чет с учебой\КУРСАЧ\Theor1\Theor1\obj\De
 C:\Users\focsit\Desktop\чет с учебой\КУРСАЧ\Theor1\Theor1\bin\Debug\Theor1.exe.config
 C:\Users\focsit\Desktop\чет с учебой\КУРСАЧ\Theor1\Theor1\bin\Debug\Theor1.exe
 C:\Users\focsit\Desktop\чет с учебой\КУРСАЧ\Theor1\Theor1\bin\Debug\Theor1.pdb
+C:\Users\focsit\Desktop\чет с учебой\Курсовая работа\Translator\Theor1\bin\Debug\Theor1.exe.config
+C:\Users\focsit\Desktop\чет с учебой\Курсовая работа\Translator\Theor1\bin\Debug\Theor1.exe
+C:\Users\focsit\Desktop\чет с учебой\Курсовая работа\Translator\Theor1\bin\Debug\Theor1.pdb
+C:\Users\focsit\Desktop\чет с учебой\Курсовая работа\Translator\Theor1\obj\Debug\Theor1.csproj.AssemblyReference.cache
+C:\Users\focsit\Desktop\чет с учебой\Курсовая работа\Translator\Theor1\obj\Debug\Theor1.csproj.SuggestedBindingRedirects.cache
+C:\Users\focsit\Desktop\чет с учебой\Курсовая работа\Translator\Theor1\obj\Debug\Theor1.Form1.resources
+C:\Users\focsit\Desktop\чет с учебой\Курсовая работа\Translator\Theor1\obj\Debug\Theor1.Properties.Resources.resources
+C:\Users\focsit\Desktop\чет с учебой\Курсовая работа\Translator\Theor1\obj\Debug\Theor1.csproj.GenerateResource.cache
+C:\Users\focsit\Desktop\чет с учебой\Курсовая работа\Translator\Theor1\obj\Debug\Theor1.csproj.CoreCompileInputs.cache
+C:\Users\focsit\Desktop\чет с учебой\Курсовая работа\Translator\Theor1\obj\Debug\Theor1.exe
+C:\Users\focsit\Desktop\чет с учебой\Курсовая работа\Translator\Theor1\obj\Debug\Theor1.pdb

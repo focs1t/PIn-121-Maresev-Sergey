@@ -22,7 +22,7 @@ namespace Theor1
         public static Form1 _form1;
         public void Conclusion1()
         {
-            textBox1.Clear();
+            
         }
         public void Conclusion(string EXPR)
         {
